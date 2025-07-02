@@ -62,7 +62,7 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td style="padding: 0; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut-vertical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut" alt="Top Languages" />
     </td>
   </tr>
 </table>

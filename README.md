@@ -62,9 +62,6 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 <table cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td style="padding: 0; border: none;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivam4940x&theme=github_dark" alt="Summary Card" />
-    </td>
-    <td style="padding: 0; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut-vertical" alt="Top Languages" />
     </td>
   </tr>

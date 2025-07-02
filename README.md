@@ -19,10 +19,17 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 
 #### Languages:
 
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Left Column: Tech Stack -->
+    <td valign="top">
+
+<!-- 🖥️ Programming Languages -->
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/NodeJs-47A248?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NodeJs-47A248?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 
@@ -40,38 +47,34 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 #### 🧠 IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-
-
-## Get in touch
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://portfolio-projecttesting.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-0b1a2a?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://github.com/shivam4940x">
-        <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/shivam-singh-37b56b28b/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="https://www.instagram.com/shivam4940.exe">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      &nbsp;
-      <a href="mailto:shivamsingh4940x@gmail.com">
-        <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
     </td>
-    <td>
+    <!-- Right Column: Top Languages Chart -->
+    <td valign="top" align="right">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
+
+
+## Get in touch
+<p align="center">
+
+[<img src="https://img.shields.io/badge/Portfolio-0b1a2a?style=for-the-badge&logo=vercel&logoColor=white" />](https://portfolio-projecttesting.vercel.app/)
+&nbsp;
+[<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/shivam4940x)
+&nbsp;
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivam-singh-37b56b28b/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shivam4940.exe)
+&nbsp;
+[<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shivamsingh4940x@gmail.com)
+
+</p>
+
+
+
+put the p stuff in the table and put them side by side
 <br/>
 <p align="center">
   <a href="https://www.buymeacoffee.com/shivam4940x" target="_blank">

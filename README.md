@@ -18,7 +18,7 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 ## Skills:
 ### Languages:
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="2" cellpadding="2">
   <tr>
     <!-- Left Column: Tech Stack -->
     <td valign="top">
@@ -75,11 +75,12 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 
 
 <br/>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/shivam4940x" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+<div align="center">
+  <a href="https://www.ko-fi.com/shivam4940x">
+    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-white?style=for-the-badge&logo=ko-fi&logoColor=red" alt="Ko-fi">
   </a>
-</p>
+</div>
+
 
 
 

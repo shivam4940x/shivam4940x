@@ -16,15 +16,15 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 - Technical discussions and knowledge-sharing
 
 ## Skills:
-
-<table cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <!-- Left Column: Centered Badge Content -->
-    <td align="center" valign="top" width="70%">
-      <div align="center">
-
 ### Languages:
 
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- Left Column: Tech Stack -->
+    <td valign="top">
+
+<!-- 🖥️ Programming Languages -->
+  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
@@ -46,14 +46,14 @@ I'm currently in college (though not particularly invested in it), but I’ve be
 #### 🧠 IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-    </div>
     </td>
-    <!-- Right Column: Language Chart -->
-    <td align="center" valign="top" width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut" alt="Top Languages" />
+    <!-- Right Column: Top Languages Chart -->
+    <td valign="top" align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut-vertical" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 

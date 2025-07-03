@@ -1,6 +1,6 @@
 <h2>Hi there, I'm <a href="https://portfolio-ten-iota-tixiz0p0ve.vercel.app/" target="_blank">shivam singh</a> 👋</h2>
 
-I'm currently in college (though not particularly invested in it), but I’ve been passionate about coding since 2022. I love building things, exploring tech, and I’m actively shaping my future around it. Right now, I work as a full-stack developer with a strong command of JavaScript and TypeScript, focusing on scalable, efficient web applications.
+I'm currently in college (not really interested in it), but I’ve been passionate about coding since 2022. I love building things, exploring tech, and I’m actively shaping my future around it. Right now, I work as a full-stack developer with a strong command of JavaScript and TypeScript, focusing on scalable, efficient web applications.
 
 **My Interest**:
 - Cybersecurity and ethical hacking

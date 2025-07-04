@@ -76,8 +76,8 @@ I'm currently in college (not really interested in it), but I’ve been passiona
 
 <br/>
 <div align="center">
-  <a href="https://www.ko-fi.com/shivam4940x">
-    <img src="https://img.shields.io/badge/Support%20me%20on-Ko--fi-white?style=for-the-badge&logo=ko-fi&logoColor=red" alt="Ko-fi">
+  <a href="https://coff.ee/shivam4940x">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
 </div>
 

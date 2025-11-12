@@ -3,10 +3,10 @@
 I'm currently in college (not really interested in it), but I’ve been passionate about coding since 2022. I love building things, exploring tech, and I’m actively shaping my future around it. Right now, I work as a full-stack developer with a strong command of JavaScript and TypeScript, focusing on scalable, efficient web applications.
 
 **My Interest**:
-- Cybersecurity and ethical hacking
+- Tech in general
+- Cybersecurity 
 - Building scaleable web apps.
 - Leading about tech
-- cryptography
 
  **I am open to**:
 

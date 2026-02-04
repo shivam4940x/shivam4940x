@@ -47,11 +47,6 @@ I'm currently in college (not really interested in it), but I’ve been passiona
 
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     </td>
-    <!-- Right Column: Top Languages Chart -->
-    <td valign="top" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&theme=github_dark&layout=donut-vertical" alt="Top Languages" />
-    </td>
-  </tr>
 </table>
 
 

@@ -62,8 +62,6 @@ I'm currently in college (not really interested in it), but I’ve been passiona
 &nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivam-singh-37b56b28b/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/shivam4940.exe)
-&nbsp;
 [<img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shivamsingh4940x@gmail.com)
 
 </p>

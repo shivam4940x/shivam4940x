@@ -69,7 +69,7 @@ I'm currently in college (not really interested in it), but I’ve been passiona
 
 <br/>
 <div align="center">
-  <a href="https://coff.ee/shivam4940x">
+  <a href="https://razorpay.me/@shivam4940">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-black?style=for-the-badge&logo=buy-me-a-coffee&logoColor=yellow" alt="Buy Me a Coffee">
   </a>
 </div>

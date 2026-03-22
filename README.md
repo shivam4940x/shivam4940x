@@ -1,7 +1,7 @@
 <div align="center">
 
 # hi, i'm shivam singh 👾
-### full-stack engineer · ai developer · ships end-to-end
+### Software Developer
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-```ts
+<pre lang="ts">
 const shivam = {
   location  : "Ghaziabad, UP, India 🇮🇳",
   coding    : "since 2022",
@@ -24,89 +24,26 @@ const shivam = {
   openTo    : ["collabs", "freelance", "contracts", "tech convos"],
   building  : "things that actually ship, not just sit in /projects",
   goals     : ["own a product", "build in public", "go global"],
-  motto     : "If it works, dont touch it",
+  motto     : "if it works, don't touch it",
   at3am     : "debugging something that worked yesterday",
 };
-```
+</pre>
 
 <br/>
 
 ---
 
+
 ## ⚒️ what i work with
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**🖥️ languages**
 ```
-JavaScript (ES2023)
-TypeScript
-Python
-Dart
-Rust
-Shell / Bash
+▸ languages     JavaScript · TypeScript · Python · Dart · Rust · Shell
+▸ frontend      React · Next.js · Vue · Nuxt · Flutter · Tailwind · GSAP
+                MUI · Anime.js · Matter.js · Zustand · Redux · React Query
+▸ backend       Node.js · NestJS · Express · REST · WebSockets · Socket.io
+▸ databases     PostgreSQL · MySQL · MongoDB · Redis · Prisma · Sequelize
+▸ devops        Docker · Linux · Git · CI/CD · GitHub Actions · DigitalOcean
+▸ ai & tools    Google GenAI · Claude Code · Prompt Engineering · VS Code
 ```
-
-**🎨 frontend**
-```
-React.js     Next.js
-Vue.js       Nuxt.js
-Flutter      Tailwind
-GSAP         MUI
-Anime.js     Matter.js
-Zustand      Redux
-React Query  Axios
-jQuery
-```
-
-</td>
-<td valign="top" width="33%">
-
-**⚙️ backend & apis**
-```
-Node.js      NestJS
-Express.js   REST
-WebSockets   Socket.io
-Microservices
-```
-
-**🗄️ data & storage**
-```
-PostgreSQL   MySQL
-MongoDB      Redis
-Prisma       Sequelize
-SQL          NoSQL
-Data Modelling
-Caching Strategies
-```
-
-</td>
-<td valign="top" width="33%">
-
-**☁️ devops & infra**
-```
-Docker          Linux
-Git             CI/CD
-GitHub Actions
-DigitalOcean
-Vercel          
-Load Balancing
-```
-
-**🤖 ai & tooling**
-```
-Google GenAI
-Claude Code
-Prompt Engineering
-Agentic Workflows
-VS Code
-Android Studio
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -120,18 +57,7 @@ Android Studio
 ## 📊 stats
 
 <div align="center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shivam4940x&hide_border=true&background=00000000&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=6e7681&stroke=30363d" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam4940x&bg_color=00000000&color=a78bfa&line=7c3aed&point=c084fc&area=true&area_color=7c3aed&hide_border=true" width="100%" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 </div>
 
 ---

@@ -48,11 +48,6 @@ const shivam = {
 
 <br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shivam4940x&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam4940x&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=shivam4940x&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" />
 
@@ -69,7 +64,7 @@ const shivam = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam4940x/shivam4940x/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam4940x/shivam4940x/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/shivam4940x/shivam4940x/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shivam4940x/shivam4940x/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>

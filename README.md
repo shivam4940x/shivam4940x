@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/shivam-singh-37b56b28b/)
 [![Email](https://img.shields.io/badge/shivamsingh4940x@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:shivamsingh4940x@gmail.com)
 
-> *Note: My day-to-day production commits live on separate company/organization GitHub accounts.*
-
 </div>
 
 ---

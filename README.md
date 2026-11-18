@@ -1,7 +1,7 @@
 <div align="left">
 
 # Shivam Singh
-**Software Engineer — Backend & Distributed Systems**  
+**Software Engineer - Backend & Distributed Systems**  
 *Designing multi-tenant SaaS architectures, high-throughput APIs, and production cloud infrastructure.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-projecttesting.vercel.app/)
@@ -16,10 +16,11 @@
 
 ### ⚡ Production Footprint
 
-- **Multi-Tenant SaaS Architecture:** Engineered shared-schema data isolation and module-level RBAC to enforce strict tenant boundaries at scale.
-- **High-Throughput Commerce & Payments:** Architected an end-to-end commerce backend on AWS EC2 with a custom credit system and webhook-driven payment pipelines, sustaining **1,000 req/sec** in load tests.
-- **End-to-End Delivery:** Shipped cross-platform mobile (Flutter) and web (Next.js) applications backed by hardened NestJS/PostgreSQL services, async job queues, and full-stack observability.
-
+- **High-Throughput Commerce & Custom Credit Engine:** Sole architect of a production commerce backend on AWS EC2; designed the relational schema, custom credit ledger, and idempotent payment gateway webhooks sustaining **1,000 req/sec** in load tests.
+- **Multi-Tenant SaaS & Access Control:** Led technical architecture for a multi-tenant B2B SaaS platform, engineering shared-schema data isolation and module-level RBAC to strictly segregate tenant data and permissions.
+- **Enterprise Backend & Cloud Infrastructure:** Architected a 50+ endpoint NestJS, Prisma, and PostgreSQL system deployed across DigitalOcean VMs, load balancers, and managed database clusters—establishing structured logging, baseline Jest test suites, and a cross-platform Flutter client used daily in production.
+- **Performance Optimization & API Hardening:** Cut production Next.js storefront load times by **30%** via code splitting and React Query caching, and enforced **100% endpoint validation** and error-handling coverage across REST services.
+- **Technical Leadership & Mentorship:** Own end-to-end delivery from schema design to cloud deployment while driving architectural decisions, enforcing PR review standards, and mentoring 3–4 junior engineers and interns.
 ---
 
 ### 🌐 Open Source
@@ -66,6 +67,6 @@
 | **Core Backend** | TypeScript, Node.js, NestJS, Express, REST, WebSockets, BullMQ |
 | **Data & ORM** | PostgreSQL, Redis, MongoDB, Prisma |
 | **Infra & DevOps** | AWS (EC2), DigitalOcean, Kubernetes, Docker, GitHub Actions |
-| **Observability & QA** | Prometheus, Grafana, Loki, Jest, Vitest, Postman |
+| **Observability & QA** | Prometheus, Grafana, Loki, Vitest, Postman |
 | **Client & Mobile** | Next.js, React, React Query, Tailwind CSS, Flutter |
-| **AI & Automation** | Model Context Protocol (MCP), Agentic Workflows, Claude Code, OpenCode, Python |
+| **AI & Automation** | Model Context Protocol (MCP), Agentic Workflows, Claude Code |

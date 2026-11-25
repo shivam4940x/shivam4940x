@@ -1,70 +1,25 @@
-<div align="left">
-
 # Shivam Singh
-**Software Engineer - Backend & Distributed Systems**  
-*Designing multi-tenant SaaS architectures, high-throughput APIs, and production cloud infrastructure.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-projecttesting.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/shivam-singh-37b56b28b/)
-[![Email](https://img.shields.io/badge/shivamsingh4940x@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:shivamsingh4940x@gmail.com)
+Backend and full-stack developer working mostly with TypeScript, Node.js, and PostgreSQL. Writing code since 2022.
 
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-projecttesting.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/shivam-singh-37b56b28b/) [![Email](https://img.shields.io/badge/shivamsingh4940x@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:shivamsingh4940x@gmail.com)
 
----
+### Currently working on
 
-### ⚡ Production Footprint
+- **Organic produce e-commerce backend:** Building the backend solo in Node.js and PostgreSQL. Covers the database schema, farm-owner credits and rewards, payment webhooks, BullMQ jobs, and Docker deployments.
+- **Internal CRM rewrite:** Setting up the new TypeScript/Node.js backend (API contracts, tests, permissions, pricing and currency logic) and reviewing PRs for 2 interns. Also wired up Prometheus, Grafana, and Loki for the live CRM.
 
-- **High-Throughput Commerce & Custom Credit Engine:** Sole architect of a production commerce backend on AWS EC2; designed the relational schema, custom credit ledger, and idempotent payment gateway webhooks sustaining **1,000 req/sec** in load tests.
-- **Multi-Tenant SaaS & Access Control:** Led technical architecture for a multi-tenant B2B SaaS platform, engineering shared-schema data isolation and module-level RBAC to strictly segregate tenant data and permissions.
-- **Enterprise Backend & Cloud Infrastructure:** Architected a 50+ endpoint NestJS, Prisma, and PostgreSQL system deployed across DigitalOcean VMs, load balancers, and managed database clusters—establishing structured logging, baseline Jest test suites, and a cross-platform Flutter client used daily in production.
-- **Performance Optimization & API Hardening:** Cut production Next.js storefront load times by **30%** via code splitting and React Query caching, and enforced **100% endpoint validation** and error-handling coverage across REST services.
-- **Technical Leadership & Mentorship:** Own end-to-end delivery from schema design to cloud deployment while driving architectural decisions, enforcing PR review standards, and mentoring 3–4 junior engineers and interns.
----
+### Past work
 
-### 🌐 Open Source
+- **Employee Management System:** Built the Flutter app (iOS and Android) and initial NestJS backend (JWT, Prisma, Postgres, Redis), then deployed it on DigitalOcean behind Nginx, a load balancer, and PM2.
 
-- **[OpenClaude (`PR #249`)](https://github.com/Gitlawb/openclaude/pull/249)** — Fixed a memory-exhausting infinite retry loop in the CLI authentication flow by implementing exponential backoff and a retry cap while preserving transient-failure retries.
+### Open source
 
----
+- **[OpenClaude (#249)](https://github.com/Gitlawb/openclaude/pull/249):** Fixed an infinite retry loop in the CLI auth flow that was eating memory by adding exponential backoff and a retry cap.
 
-### 🏗 Reference Architecture I Build & Operate
+### Stack
 
-```text
-+-----------------------+       +------------------------------------+
-| Web (Next.js) &       |       | Load Balancer / Reverse Proxy      |
-| Mobile (Flutter) Apps | ----> | (TLS Termination & Rate Limiting)  |
-+-----------------------+       +-----------------+------------------+
-                                                  |
-                                                  v
-+-----------------------+       +------------------------------------+
-| Observability Stack   | < - - | NestJS Modular API Core            |
-| Prometheus / Grafana  |       | (Guards, Module-Level RBAC, REST)  |
-| Loki Structured Logs  | < - + +--------+------------------+--------+
-+-----------------------+     :          |                  |
-                              :          v                  v
-                              : +----------------+  +----------------+
-                              : | PostgreSQL     |  | Redis Cluster  |
-                              : | Shared-Schema  |  | Cache Layer &  |
-                              : | Multi-Tenancy  |  | BullMQ Broker  |
-                              : +----------------+  +-------+--------+
-                              :                             |
-                              :                             v
-                              :                     +----------------+
-                              + - - - - - - - - - - | Async Workers  |
-                                                    | Webhooks, Jobs |
-                                                    | & Credit Ledger|
-                                                    +----------------+
-```
-
----
-
-### 🛠 Systems & Tooling
-
-| Layer | Technologies |
-| :--- | :--- |
-| **Core Backend** | TypeScript, Node.js, NestJS, Express, REST, WebSockets, BullMQ |
-| **Data & ORM** | PostgreSQL, Redis, MongoDB, Prisma |
-| **Infra & DevOps** | AWS (EC2), DigitalOcean, Kubernetes, Docker, GitHub Actions |
-| **Observability & QA** | Prometheus, Grafana, Loki, Vitest, Postman |
-| **Client & Mobile** | Next.js, React, React Query, Tailwind CSS, Flutter |
-| **AI & Automation** | Model Context Protocol (MCP), Agentic Workflows, Claude Code |
+- **Backend:** TypeScript, Node.js, NestJS, Prisma, Zod, BullMQ, Vitest
+- **Data:** PostgreSQL, Redis
+- **Infra:** Docker, Ubuntu, Nginx, PM2, AWS, DigitalOcean, GitHub Actions, Prometheus, Grafana, Loki
+- **Frontend / Mobile:** React, Next.js, Flutter, React Query, Tailwind CSS
